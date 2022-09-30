@@ -20,9 +20,15 @@
   "support": {
     "issues": "https://github.com/Log1x/blade-svg-sage/issues"
   },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/dukenst2006/blade-svg"
+    }
+  ],
   "require": {
     "php": ">=7.0",
-    "nothingworks/blade-svg": "^0.3.0"
+    "nothingworks/blade-svg": "dev-master"
   },
   "autoload": {
     "files": [
