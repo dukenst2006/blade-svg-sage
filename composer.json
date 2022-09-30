@@ -26,6 +26,8 @@
       "url": "https://github.com/dukenst2006/blade-svg"
     }
   ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {
     "php": ">=7.0",
     "nothingworks/blade-svg": "dev-main"
