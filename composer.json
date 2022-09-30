@@ -28,7 +28,7 @@
   ],
   "require": {
     "php": ">=7.0",
-    "nothingworks/blade-svg": "dev-master"
+    "nothingworks/blade-svg": "dev-main"
   },
   "autoload": {
     "files": [
